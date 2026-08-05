@@ -1,5 +1,8 @@
 # EMC Shielding Measurements — Tomas Bata University in Zlin
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21800638.svg)](https://doi.org/10.5281/zenodo.21800638)
+
+
 Living data repository of the EMC shielding research group (Faculty of
 Applied Informatics, TBU in Zlin). It collects raw measurement campaigns,
 analysis scripts, and derived reference results for electromagnetic
@@ -7,7 +10,7 @@ shielding characterization in the VIRC (vibrating intrinsic reverberation
 chamber) and the GTEM cell.
 
 **Data license:** CC BY 4.0 · **Code license:** MIT ·
-**Cite via:** `CITATION.cff` (Zenodo DOI of the release you used)
+**Cite via:** `CITATION.cff` · v1.0.0 DOI: [10.5281/zenodo.21800638](https://doi.org/10.5281/zenodo.21800638)
 
 ## Repository map
 
