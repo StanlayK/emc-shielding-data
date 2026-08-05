@@ -1,0 +1,9 @@
+k měření bylo využitu VNA
+
+Antény jsou logaritmicko periodické antény namířené na sebe se vzdálenosti cca 35 cm. 
+
+Každý set up se opakoval 3x a byly uloženy veškěré parametry S, atd.  
+
+měření probíhalo ve dvou stavech - statický a dynamický, s ABS a nez 
+
+Frekvenční rozsah 0,1 GHz - 4,5 GHz

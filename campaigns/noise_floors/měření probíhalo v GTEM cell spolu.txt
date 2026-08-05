@@ -1,0 +1,1 @@
+měření probíhalo v GTEM cell spolu a VNA, kde byla umístění zakončovací  prvek zapojený k portu 2. ( zlatej cuplík) startovací frekvence 0,001 GHz - 4,5 GHz

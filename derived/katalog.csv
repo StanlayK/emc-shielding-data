@@ -1,0 +1,434 @@
+path,typ,n_sweeps,n_freq,f_min_MHz,f_max_MHz,df_kHz
+VIRC data/VIRC_SE_Tabulka_Vysledku.csv,tabulka/jine,,,,,
+VIRC data/vna_01klid_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/vna_01klid_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/vna_01shake_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/vna_01shake_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/vna_02klid_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/vna_02klid_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/vna_02shake_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/vna_02shake_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/vna_03klid_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/vna_03klid_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/vna_03shake_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/vna_03shake_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Rovne/vna_01klid_rovne+absorber_lezici.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Rovne/vna_01klid_rovne+absorber_stojici.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Rovne/vna_01klid_rovne.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Rovne/vna_01shake_rovne+absorber_lezici.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Rovne/vna_01shake_rovne+absorber_stojici.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Rovne/vna_01shake_rovne.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Rovne/vna_02klid_rovne+absorber_lezici.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Rovne/vna_02klid_rovne+absorber_stojici.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Rovne/vna_02klid_rovne.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Rovne/vna_02shake_rovne+absorber_lezici.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Rovne/vna_02shake_rovne+absorber_stojici.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Rovne/vna_02shake_rovne.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Rovne/vna_03klid_rovne+absorber_lezici.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Rovne/vna_03klid_rovne+absorber_stojici.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Rovne/vna_03klid_rovne.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Rovne/vna_03shake_rovne+absorber_lezici.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Rovne/vna_03shake_rovne+absorber_stojici.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Rovne/vna_03shake_rovne.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Krizem/vna_01klid_krizem+absorber_lezici.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Krizem/vna_01klid_krizem+absorber_stojici.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Krizem/vna_01klid_krizem.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Krizem/vna_01shake_krizem+absorber_lezici.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Krizem/vna_01shake_krizem+absorber_stojici.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Krizem/vna_01shake_krizem.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Krizem/vna_02klid_krizem+absorber_lezici.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Krizem/vna_02klid_krizem+absorber_stojici.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Krizem/vna_02klid_krizem.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Krizem/vna_02shake_krizem+absorber_lezici.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Krizem/vna_02shake_krizem+absorber_stojici.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Krizem/vna_02shake_krizem.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Krizem/vna_03klid_krizem+absorber_lezici.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Krizem/vna_03klid_krizem+absorber_stojici.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Krizem/vna_03klid_krizem.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Krizem/vna_03shake_krizem+absorber_lezici.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Krizem/vna_03shake_krizem+absorber_stojici.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/VNA měření polarizace antén/Krizem/vna_03shake_krizem.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice1_klid_01.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice1_klid_02.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice1_klid_03.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice1_shake_01.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice1_shake_02.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice1_shake_03.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice3_klid_01.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice3_klid_02.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice3_klid_03.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice3_shake_01.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice3_shake_02.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice3_shake_03.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice4_klid_01.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice4_klid_02.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice4_klid_03.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice4_klid_ABS.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice4_shake_01.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice4_shake_02.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice4_shake_03.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice4_shake_ABS.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice5_klid_01.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice5_klid_02.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice5_klid_03.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice5_klid_ABS.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice5_shake_01.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice5_shake_02.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice5_shake_03.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice5_shake_ABS.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice6_klid_01.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice6_klid_02.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice6_klid_03.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice6_klid_ABS.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice6_klid_ABS_mezi.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice6_shake_01.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice6_shake_02.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice6_shake_03.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice6_shake_ABS.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Měření různých pozic antén/vna_pozice6_shake_ABS_mezi.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_4.poloha/VIRC_SE_Tabulka_Vysledku.csv,tabulka/jine,,,,,
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_4.poloha/vna_01klid_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_4.poloha/vna_01klid_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_4.poloha/vna_01shake_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_4.poloha/vna_01shake_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_4.poloha/vna_02klid_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_4.poloha/vna_02klid_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_4.poloha/vna_02shake_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_4.poloha/vna_02shake_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_4.poloha/vna_03klid_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_4.poloha/vna_03klid_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_4.poloha/vna_03shake_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_4.poloha/vna_03shake_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_2.poloha/VIRC_SE_Tabulka_Vysledku.csv,tabulka/jine,,,,,
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_2.poloha/vna_01klid_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_2.poloha/vna_01klid_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_2.poloha/vna_01shake_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_2.poloha/vna_01shake_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_2.poloha/vna_02klid_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_2.poloha/vna_02klid_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_2.poloha/vna_02shake_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_2.poloha/vna_02shake_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_2.poloha/vna_03klid_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_2.poloha/vna_03klid_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_2.poloha/vna_03shake_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_2.poloha/vna_03shake_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_3.poloha/VIRC_SE_Tabulka_Vysledku.csv,tabulka/jine,,,,,
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_3.poloha/vna_01klid_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_3.poloha/vna_01klid_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_3.poloha/vna_01shake_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_3.poloha/vna_01shake_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_3.poloha/vna_02klid_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_3.poloha/vna_02klid_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_3.poloha/vna_02shake_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_3.poloha/vna_02shake_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_3.poloha/vna_03klid_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_3.poloha/vna_03klid_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_3.poloha/vna_03shake_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_3.poloha/vna_03shaken_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_1.poloha/VIRC_SE_Tabulka_Vysledku.csv,tabulka/jine,,,,,
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_1.poloha/vna_01klid_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_1.poloha/vna_01klid_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_1.poloha/vna_01shake_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_1.poloha/vna_01shake_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_1.poloha/vna_02klid_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_1.poloha/vna_02klid_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_1.poloha/vna_02shake_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_1.poloha/vna_02shake_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_1.poloha/vna_03klid_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_1.poloha/vna_03klid_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_1.poloha/vna_03shake_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_bez_abs/Velký_box_vna_onedrive_1.poloha/vna_03shake_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_4.poloha/VIRC_SE_Tabulka_Vysledku.csv,tabulka/jine,,,,,
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_4.poloha/vna_01klid_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_4.poloha/vna_01klid_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_4.poloha/vna_01shake_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_4.poloha/vna_01shake_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_4.poloha/vna_02klid_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_4.poloha/vna_02klid_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_4.poloha/vna_02shake_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_4.poloha/vna_02shake_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_4.poloha/vna_03klid_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_4.poloha/vna_03klid_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_4.poloha/vna_03shake_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_4.poloha/vna_03shake_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_2.poloha/vna_01klid_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_2.poloha/vna_01shake_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_2.poloha/vna_02klid_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_2.poloha/vna_02shake_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_2.poloha/vna_03klid_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_2.poloha/vna_03shake_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_3.poloha/VIRC_SE_Tabulka_Vysledku.csv,tabulka/jine,,,,,
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_3.poloha/vna_01klid_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_3.poloha/vna_01klid_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_3.poloha/vna_01shake_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_3.poloha/vna_01shake_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_3.poloha/vna_02klid_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_3.poloha/vna_02klid_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_3.poloha/vna_02shake_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_3.poloha/vna_02shake_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_3.poloha/vna_03klid_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_3.poloha/vna_03klid_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_3.poloha/vna_03shake_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_3.poloha/vna_03shake_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_1.poloha/VIRC_SE_Tabulka_Vysledku.csv,tabulka/jine,,,,,
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_1.poloha/vna_01klid_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_1.poloha/vna_01klid_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_1.poloha/vna_01shake_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_1.poloha/vna_01shake_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_1.poloha/vna_02klid_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_1.poloha/vna_02klid_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_1.poloha/vna_02shake_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_1.poloha/vna_02shake_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_1.poloha/vna_03klid_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_1.poloha/vna_03klid_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_1.poloha/vna_03shake_bezkrytu_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VIRC data/Velký box/Box_s_abs/Velký_box_vna_onedrive_1.poloha/vna_03shake_skrytem_prutAntena.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+VNA+GTEM_Velke_BLS/A/A_VNA_0.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/A/A_VNA_135.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/A/A_VNA_180.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/A/A_VNA_225.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/A/A_VNA_270.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/A/A_VNA_315.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/A/A_VNA_45.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/A/A_VNA_90.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/F/F_VNA_0_S11.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/F/F_VNA_0_S12.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/F/F_VNA_0_S21.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/F/F_VNA_0_S22.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/F/F_VNA_135.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/F/F_VNA_135_S11.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/F/F_VNA_135_S12.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/F/F_VNA_135_S21.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/F/F_VNA_135_S22.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/F/F_VNA_180.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/F/F_VNA_180_S21.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/F/F_VNA_225.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/F/F_VNA_225_S21.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/F/F_VNA_270.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/F/F_VNA_315.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/F/F_VNA_45.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/F/F_VNA_45_S11.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/F/F_VNA_45_S12.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/F/F_VNA_45_S21.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/F/F_VNA_45_S22.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/F/F_VNA_90.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/F/F_VNA_90_S11.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/F/F_VNA_90_S12.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/F/F_VNA_90_S21.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/F/F_VNA_90_S22.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/C/B_VNA_0.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/C/B_VNA_135.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/C/B_VNA_180.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/C/B_VNA_225.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/C/B_VNA_270.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/C/B_VNA_315.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/C/B_VNA_45.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/C/B_VNA_90.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/D/D_VNA_0.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/D/D_VNA_135.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/D/D_VNA_180.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/D/D_VNA_225.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/D/D_VNA_270.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/D/D_VNA_315.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/D/D_VNA_45.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/D/D_VNA_90.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/E/E_VNA_0.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/E/E_VNA_135.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/E/E_VNA_180.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/E/E_VNA_225.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/E/E_VNA_270.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/E/E_VNA_315.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/E/E_VNA_45.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/E/E_VNA_90.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/B/B_VNA_0.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/B/B_VNA_135.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/B/B_VNA_180.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/B/B_VNA_225.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/B/B_VNA_270.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/B/B_VNA_315.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/B/B_VNA_45.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+VNA+GTEM_Velke_BLS/B/B_VNA_90.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/A-bez krytu/A_VNA_0.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/A-bez krytu/A_VNA_135.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/A-bez krytu/A_VNA_180.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/A-bez krytu/A_VNA_225.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/A-bez krytu/A_VNA_270.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/A-bez krytu/A_VNA_315.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/A-bez krytu/A_VNA_45.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/A-bez krytu/A_VNA_90.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/F/F_VNA_0.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/F/F_VNA_135.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/F/F_VNA_180.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/F/F_VNA_225.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/F/F_VNA_270.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/F/F_VNA_315.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/F/F_VNA_45.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/F/F_VNA_90.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/D/D_VNA_0.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/D/D_VNA_135.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/D/D_VNA_180.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/D/D_VNA_225.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/D/D_VNA_270.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/D/D_VNA_315.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/D/D_VNA_45.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/D/D_VNA_90.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/E/E_VNA_0.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/E/E_VNA_135.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/E/E_VNA_180.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/E/E_VNA_225.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/E/E_VNA_270.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/E/E_VNA_315.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/E/E_VNA_45.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/E/E_VNA_90.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/B/B_VNA_0.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/B/B_VNA_135.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/B/B_VNA_180.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/B/B_VNA_225.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/B/B_VNA_270.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/B/B_VNA_315.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/B/B_VNA_45.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Little PCB_VNA_GTEM/B/B_VNA_90.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box_obdelnik/Obdelnik_dynamic_S11.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box_obdelnik/Obdelnik_dynamic_S12.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box_obdelnik/Obdelnik_dynamic_S21.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box_obdelnik/Obdelnik_dynamic_S22.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box_obdelnik/Obdelnik_dynamic_abs_S11.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box_obdelnik/Obdelnik_dynamic_abs_S12.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box_obdelnik/Obdelnik_dynamic_abs_S21.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box_obdelnik/Obdelnik_dynamic_abs_S22.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box_obdelnik/Obdelnik_static_S11.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box_obdelnik/Obdelnik_static_S12.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box_obdelnik/Obdelnik_static_S21.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box_obdelnik/Obdelnik_static_S22.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box_obdelnik/Obdelnik_static_abs_S11.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box_obdelnik/Obdelnik_static_abs_S12.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box_obdelnik/Obdelnik_static_abs_S21.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box_obdelnik/Obdelnik_static_abs_S22.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/box čtverec/čtverec_dynamic_S11.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/box čtverec/čtverec_dynamic_S12.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/box čtverec/čtverec_dynamic_S21.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/box čtverec/čtverec_dynamic_S22.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/box čtverec/čtverec_dynamic_abs_S11.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/box čtverec/čtverec_dynamic_abs_S12.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/box čtverec/čtverec_dynamic_abs_S21.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/box čtverec/čtverec_dynamic_abs_S22.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/box čtverec/čtverec_static_S11.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/box čtverec/čtverec_static_S12.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/box čtverec/čtverec_static_S21.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/box čtverec/čtverec_static_S22.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/box čtverec/čtverec_static_abs_S11.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/box čtverec/čtverec_static_abs_S12.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/box čtverec/čtverec_static_abs_S21.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/box čtverec/čtverec_static_abs_S22.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box trojúhelník/Trojúhelník_dynamic_S11.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box trojúhelník/Trojúhelník_dynamic_S12.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box trojúhelník/Trojúhelník_dynamic_S21.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box trojúhelník/Trojúhelník_dynamic_S22.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box trojúhelník/Trojúhelník_dynamic_abs_S11.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box trojúhelník/Trojúhelník_dynamic_abs_S12.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box trojúhelník/Trojúhelník_dynamic_abs_S21.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box trojúhelník/Trojúhelník_dynamic_abs_S22.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box trojúhelník/Trojúhelník_static_S11.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box trojúhelník/Trojúhelník_static_S12.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box trojúhelník/Trojúhelník_static_S21.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box trojúhelník/Trojúhelník_static_S22.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box trojúhelník/Trojúhelník_static_abs_S11.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box trojúhelník/Trojúhelník_static_abs_S12.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box trojúhelník/Trojúhelník_static_abs_S21.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box trojúhelník/Trojúhelník_static_abs_S22.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box male otvory/Maly_otvory_dynamic.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box male otvory/Maly_otvory_dynamic_abc.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box male otvory/Maly_otvory_static.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box male otvory/Maly_otvory_static_abc.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box se všemi otevřenými otvory/Open_all_box_dynamic_S11.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box se všemi otevřenými otvory/Open_all_box_dynamic_S12.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box se všemi otevřenými otvory/Open_all_box_dynamic_S21.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box se všemi otevřenými otvory/Open_all_box_dynamic_S22.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box se všemi otevřenými otvory/Open_all_box_dynamic_abs.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box se všemi otevřenými otvory/Open_all_box_dynamic_abs_S11.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box se všemi otevřenými otvory/Open_all_box_dynamic_abs_S12.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box se všemi otevřenými otvory/Open_all_box_dynamic_abs_S21.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box se všemi otevřenými otvory/Open_all_box_dynamic_abs_S22.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box se všemi otevřenými otvory/Open_all_box_static_S11.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box se všemi otevřenými otvory/Open_all_box_static_S12.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box se všemi otevřenými otvory/Open_all_box_static_S21.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box se všemi otevřenými otvory/Open_all_box_static_S22.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box se všemi otevřenými otvory/Open_all_box_static_abs_S11.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box se všemi otevřenými otvory/Open_all_box_static_abs_S12.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box se všemi otevřenými otvory/Open_all_box_static_abs_S21.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box se všemi otevřenými otvory/Open_all_box_static_abs_S22.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box kruh/kruh_dynamic_S11.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box kruh/kruh_dynamic_S12.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box kruh/kruh_dynamic_S21.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box kruh/kruh_dynamic_S22.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box kruh/kruh_dynamic_absS22.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box kruh/kruh_dynamic_abs_S11.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box kruh/kruh_dynamic_abs_S12.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box kruh/kruh_dynamic_abs_S21.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box kruh/kruh_static_S11.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box kruh/kruh_static_S12.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box kruh/kruh_static_S21.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box kruh/kruh_static_S22.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box kruh/kruh_static_abs_S11.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box kruh/kruh_static_abs_S12.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box kruh/kruh_static_abs_S21.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+Box_VNA+VIRC/Box kruh/kruh_static_abs_S22.csv,mereni,100.0,3001.0,100.0,4500.0,1466.667
+utlum_kabelu/prvni_kabel/S11.csv,mereni,10.0,3001.0,1125.0,4125.0,1000.0
+utlum_kabelu/prvni_kabel/S12.csv,mereni,10.0,3001.0,1125.0,4125.0,1000.0
+utlum_kabelu/prvni_kabel/S21.csv,mereni,10.0,3001.0,1125.0,4125.0,1000.0
+utlum_kabelu/prvni_kabel/S22.csv,mereni,10.0,3001.0,1125.0,4125.0,1000.0
+utlum_kabelu/druhy_kabel/S11.csv,mereni,10.0,3001.0,1125.0,4125.0,1000.0
+utlum_kabelu/druhy_kabel/S12.csv,mereni,10.0,3001.0,1125.0,4125.0,1000.0
+utlum_kabelu/druhy_kabel/S21.csv,mereni,10.0,3001.0,1125.0,4125.0,1000.0
+utlum_kabelu/druhy_kabel/S22.csv,mereni,10.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha2/bez ABS/VNA_02 dynamic_Referencni_prvek.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha2/bez ABS/VNA_02 dynamic_SampleA.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha2/bez ABS/VNA_02 dynamic_SampleB.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha2/bez ABS/VNA_02 dynamic_SampleC.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha2/bez ABS/VNA_02 dynamic_SampleD.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha2/bez ABS/VNA_02 dynamic_SampleE.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha2/bez ABS/VNA_02 static_Referencni_prvek.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha2/bez ABS/VNA_02 static_SampleA.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha2/bez ABS/VNA_02 static_SampleB.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha2/bez ABS/VNA_02 static_SampleC.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha2/bez ABS/VNA_02 static_SampleD.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha2/bez ABS/VNA_02 static_SampleE.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha2/s ABS/VNA_02 dynamic_Referencni_prvek+ABS.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha2/s ABS/VNA_02 dynamic_SampleA+ABS.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha2/s ABS/VNA_02 dynamic_SampleB+ABS.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha2/s ABS/VNA_02 dynamic_SampleC+ABS.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha2/s ABS/VNA_02 dynamic_SampleD+ABS.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha2/s ABS/VNA_02 dynamic_SampleE+ABS.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha2/s ABS/VNA_02 static_Referencni_prvek+ABS.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha2/s ABS/VNA_02 static_SampleA+ABS.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha2/s ABS/VNA_02 static_SampleB+ABS.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha2/s ABS/VNA_02 static_SampleC+ABS.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha2/s ABS/VNA_02 static_SampleD+ABS.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha2/s ABS/VNA_02 static_SampleE+ABS.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha2/Analysis_Results/VIRC_SE_Results_Table.csv,tabulka/jine,,,,,
+Velké BLS/poloha1/bez ABS/VNA_01 dynamic_Refencni_prevek.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha1/bez ABS/VNA_01 dynamic_SampleA.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha1/bez ABS/VNA_01 dynamic_SampleB.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha1/bez ABS/VNA_01 dynamic_SampleC.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha1/bez ABS/VNA_01 dynamic_SampleD.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha1/bez ABS/VNA_01 dynamic_SampleE.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha1/bez ABS/VNA_01 static_Refencni_prevek.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha1/bez ABS/VNA_01 static_SampleA.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha1/bez ABS/VNA_01 static_SampleB.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha1/bez ABS/VNA_01 static_SampleC.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha1/bez ABS/VNA_01 static_SampleD.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha1/bez ABS/VNA_01 static_SampleE.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha1/s ABS/VNA_01 dynamic_Refencni_prevek+ABS.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha1/s ABS/VNA_01 dynamic_SampleA+ABS.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha1/s ABS/VNA_01 dynamic_SampleB+ABS.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha1/s ABS/VNA_01 dynamic_SampleC+ABS.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha1/s ABS/VNA_01 dynamic_SampleD+ABS.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha1/s ABS/VNA_01 dynamic_SampleE+ABS.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha1/s ABS/VNA_01 static_Refencni_prevek+ABS.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha1/s ABS/VNA_01 static_SampleA+ABS.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha1/s ABS/VNA_01 static_SampleB+ABS.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha1/s ABS/VNA_01 static_SampleC+ABS.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha1/s ABS/VNA_01 static_SampleD+ABS.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha1/s ABS/VNA_01 static_SampleE+ABS.csv,mereni,100.0,3001.0,1125.0,4125.0,1000.0
+Velké BLS/poloha1/Analysis_Results/VIRC_SE_Results_Table.csv,tabulka/jine,,,,,
+Velké BLS/poloha1/Vysledky_Analyzy/VIRC_SE_Tabulka_Vysledku.csv,tabulka/jine,,,,,

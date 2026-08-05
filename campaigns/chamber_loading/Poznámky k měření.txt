@@ -1,0 +1,6 @@
+Měření prbíhalo v několka set upech
+
+2 antény static a dynamic
+
+50 ohm zátěž, byla zapojena k portu 1
+
