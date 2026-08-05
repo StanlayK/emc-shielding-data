@@ -31,8 +31,9 @@ chamber) and the GTEM cell.
 
 ## Key facts
 
-- **Samples (BLS study):** panel of six PCBs (FR-4, Pulse W3006 chip
-  antenna at 2.4 GHz, SMA feed) with a Laird BMI-S-102 two-piece shield.
+- **Samples (BLS study):** panels of six PCBs (FR-4, Pulse W3006 chip
+  antenna at 2.4 GHz, SMA feed) with Laird two-piece shields — large
+  campaign 26 x 26 x 5 mm, small campaign 16 x 16 x 3 mm (BMI-S-102).
   Variants: A correct, B no ground pour under antenna, C perimeter
   clearance (grounded), D perimeter clearance (not grounded), E pads not
   grounded, F no shield (reference). Design files: `docs/`.
