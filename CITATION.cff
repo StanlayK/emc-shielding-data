@@ -3,12 +3,12 @@ message: "If you use this dataset, please cite it via the Zenodo DOI of the rele
 title: "EMC Shielding Measurements — VIRC and GTEM campaigns (TBU in Zlin)"
 type: dataset
 authors:
+  - family-names: Strajtova
+    given-names: Eliska
+    affiliation: "Tomas Bata University in Zlin"
   - family-names: Kovar
     given-names: Stanislav
     orcid: "https://orcid.org/0000-0001-7264-150X"
-    affiliation: "Tomas Bata University in Zlin"
-  - family-names: Strajtova
-    given-names: Eliska
     affiliation: "Tomas Bata University in Zlin"
   - family-names: Adamek
     given-names: Milan

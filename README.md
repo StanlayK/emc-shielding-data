@@ -1,8 +1,5 @@
 # EMC Shielding Measurements — Tomas Bata University in Zlin
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21800638.svg)](https://doi.org/10.5281/zenodo.21800638)
-
-
 Living data repository of the EMC shielding research group (Faculty of
 Applied Informatics, TBU in Zlin). It collects raw measurement campaigns,
 analysis scripts, and derived reference results for electromagnetic
@@ -10,7 +7,7 @@ shielding characterization in the VIRC (vibrating intrinsic reverberation
 chamber) and the GTEM cell.
 
 **Data license:** CC BY 4.0 · **Code license:** MIT ·
-**Cite via:** `CITATION.cff` · v1.0.0 DOI: [10.5281/zenodo.21800638](https://doi.org/10.5281/zenodo.21800638)
+**Cite via:** `CITATION.cff` (Zenodo DOI of the release you used)
 
 ## Repository map
 
@@ -27,13 +24,15 @@ chamber) and the GTEM cell.
 | `campaigns/chamber_loading/` | Loads / two antennas | VIRC | Q and ACS studies (complex traces) |
 | `scripts/` | — | — | Python analysis (see `scripts/README.md`) |
 | `derived/` | — | — | technique-independent SE curves, summaries, figures |
-| `docs/` | — | — | measurement protocol, sample design, file formats |
+| `docs/` | — | — | sample design, file formats, known data quirks |
 
 ## Key facts
 
-- **Samples (BLS study):** panels of six PCBs (FR-4, Pulse W3006 chip
-  antenna at 2.4 GHz, SMA feed) with Laird two-piece shields — large
-  campaign 26 x 26 x 5 mm, small campaign 16 x 16 x 3 mm (BMI-S-102).
+- **Samples (BLS study):** panel of six two-layer PCBs (FR-4, 1.5 mm
+  dielectric, 1.602 mm overall; Pulse W3006 chip antenna at 2.4 GHz;
+  TE 5-1814400-1 right-angle SMA jack) with a Laird BMI-S-102 one-piece
+  SMT shield, corrosion-resistant steel, 16.5 x 16.5 x 3.6 mm (per the
+  project BOM in `docs/`; shields S1-S5 are populated, variant F has none).
   Variants: A correct, B no ground pour under antenna, C perimeter
   clearance (grounded), D perimeter clearance (not grounded), E pads not
   grounded, F no shield (reference). Design files: `docs/`.
@@ -54,8 +53,10 @@ in Hz):
    SWR, Smith}. The `Smith` row carries two values per frequency — parse
    line-wise (see `scripts/analyza_novych_dat.py`).
 
-Known data quirks are documented in `docs/known_issues.md` (e.g., GTEM
-folder `C/` contains files named `B_*` that are genuine sample-C data).
+Known data quirks are documented in `docs/known_issues.md` — read it
+before using the raw traces. It covers, among others, the two separate
+acquisition runs in the GTEM `F/` folder and the export naming of GTEM
+folder `C/`, which was corrected in release v1.0.1.
 
 ## Reproducing the article results
 

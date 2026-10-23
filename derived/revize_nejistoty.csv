@@ -1,0 +1,20 @@
+block,quantity,value,unit
+table2,mean technique difference,-0.229,dB
+table2,sd of differences (ddof=1),1.098,dB
+table2,Pearson r,0.9875,
+sensitivity,"A  manuscript recipe (VIRC 2 cfg; pivot 8 rot., F 7 rot.)",-0.229,dB
+sensitivity,B  rotation sets harmonised to the common seven,0.046,dB
+sensitivity,C  all four VIRC configurations,-0.056,dB
+sensitivity,D  both changes,0.219,dB
+jackknife,worst-case shift from omitting one rotation,0.802,dB
+grr_bootstrap,item,"44.31 [4.96, 126.09]",
+grr_bootstrap,rep,"3.38 [2.18, 4.81]",
+grr_bootstrap,tech,"0.00 [0.00, 0.53]",
+grr_bootstrap,inter,"0.00 [0.00, 1.15]",
+grr_bootstrap,pctGRR,"26.62 [16.02, 65.18]",
+grr_bootstrap,ndc,"5.00 [1.00, 8.00]",
+grr_bounds,upper bound sigma_tech (95%),5.22,dB
+grr_bounds,upper bound sigma_tech (90%),2.59,dB
+grr_bounds,upper bound sigma_int (95%),1.71,dB
+paired,Table 2 (VIRC absorber-free): 95% CI of mean,"[-1.59, 1.13]",dB
+paired,gauge R&R data (all four VIRC configurations): 95% CI of mean,"[-1.88, 0.89]",dB
